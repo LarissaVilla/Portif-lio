@@ -33,6 +33,3 @@
 
 ---
 
-<p align="center">
-  Feito com ❤️ por <strong>Eduarda</strong>
-</p>
