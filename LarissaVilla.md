@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 Sobre mim
-- 🌱 Atualmente aprendendo: **HTML, CSS**
+- 🌱 Atualmente aprendendo: **HTML, CSS,JAVASCRIPT**
 - 🎯 Objetivo: me tornar desenvolvedora fullstack
 - 📚 Sempre em busca de novos desafios e projetos práticos
   
